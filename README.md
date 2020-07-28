@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+📈 I’ve recently been working on https://warrants.tech - a platform for open-source data surrounding these esoteric financial securities that are tough to get information on with currently available public resources. Core tech stack built with React, Express, IEX Cloud API, and LowDB. 
+
+📰 Built a PDF scraper to detect popular companies from private equity / hedge fund quarterly letters. I leveraged PDFMiner, Google Natural Language API, and Python 3 for the development of the project. This enabled a hedge fund manager to make more efficient investment sourcing decisions from his network - you can see the results on Q4 2019 here - shorturl.at/aowN8
+
+🤔 Figuring out how to scrape data from S-1 and Prospectus filings for SPACs for warrants.tech, and exploring various financial instruments / trading strategies.
+
+📫 Contact me by email or LinkedIn if you've got something interesting to discuss :).
+
 <!--
 **terose73/terose73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
