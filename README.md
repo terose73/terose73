@@ -6,8 +6,6 @@
 
 🤔 Figuring out how to scrape data from S-1 and Prospectus filings for SPACs for warrants.tech, and exploring various financial instruments / trading strategies.
 
-📫 Contact me by email or LinkedIn if you've got something interesting to discuss, i'm open to any opportunities :)
-
 <!--
 **terose73/terose73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
