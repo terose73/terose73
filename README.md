@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📈 I’ve recently been working on https://warrants.tech - a platform for open-source data surrounding these esoteric financial securities that are tough to get information on with currently available public resources. Core tech stack built with React, Express, IEX Cloud API, and LowDB. The platform currently has >200 daily active users.
+📈 I’ve recently been working on https://warrants.tech - a platform for open-source data surrounding these esoteric financial securities that are tough to get information on with currently available public resources. Core tech stack built with React, Express, IEX Cloud API, and LowDB. The platform currently has >200 weekly active users.
 
 📰 Built a PDF scraper to detect popular companies from private equity / hedge fund quarterly letters. I leveraged PDFMiner, Google Natural Language API, and Python 3 for the development of the project. This enabled a hedge fund manager to make more efficient investment sourcing decisions from his network - you can see the results on Q2 2020 here - https://raw.githubusercontent.com/terose73/hedge-fund-hotels/master/2020-2Q.txt
 
